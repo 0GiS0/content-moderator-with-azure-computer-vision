@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@azure/cognitiveservices-computervision": "^8.1.0",
-    "async": "^3.2.0",
+    "async": "^3.2.2",
     "dotenv": "^10.0.0",
     "ffmpeg-extract-frames": "^2.0.2",
     "sleep": "^6.3.0"
